@@ -28,6 +28,6 @@ const estilos = StyleSheet.create({
         lineHeight: 26,
         color: "white",
         fontWeight: "bold",
-        padding: 30,
+        padding: 50,
     },
 });

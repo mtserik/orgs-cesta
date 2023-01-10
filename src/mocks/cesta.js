@@ -3,7 +3,7 @@ import logo from '../../assets/logo.png';
 
 const cesta = {
     topo: {
-        titulo: "Detalhes da cesta",
+        titulo: "Detalhes da Cesta",
     },
     detalhes: {
         nome: "Cesta de Verdura",
